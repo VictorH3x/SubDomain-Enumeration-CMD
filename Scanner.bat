@@ -9,6 +9,7 @@ CLS
 CLS
 ECHO ======================================
 ECHO     CMD Subdomain Enumerator
+ECHO         Made By Vict0r
 ECHO ======================================
 ECHO.
 
@@ -141,4 +142,5 @@ ECHO Scan session finished.
 PAUSE
 
 :End
+
 EXIT /B
